@@ -23,12 +23,12 @@ const aboutMe = {
   <a href="https://github.com/magnogouvea">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=onedark"
+  media="(prefers-color-scheme: onedark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true" />
 </picture>
