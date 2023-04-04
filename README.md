@@ -16,15 +16,17 @@ const aboutMe = {
   currentlyLearning: "Java",
 }
 ```
+
+   
+  <div align="center">
+  <a href="https://github.com/magnogouvea">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=radical"/>
+    <img height="180em" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnogouvea&layout=compact)](https://github.com/magnogouvea/github-readme-stats"/>
+  </a>
+</div>
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/magnogouvea">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnogouvea&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnogouvea&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
