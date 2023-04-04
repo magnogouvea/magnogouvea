@@ -21,17 +21,9 @@ const aboutMe = {
 
 <div align="center">
   <a href="https://github.com/magnogouvea">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=onedark"
-  media="(prefers-color-scheme: onedark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true" />
-</picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnogouvea&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnogouvea&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div align="center" valign="top"><br>
