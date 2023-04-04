@@ -20,8 +20,8 @@ const aboutMe = {
    
   <div align="center">
   <a href="https://github.com/magnogouvea">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=radical"/>
-    <img height="180em" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnogouvea&layout=compact)](https://github.com/magnogouvea/github-readme-stats"/>
+    <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=magnogouvea&show_icons=true&theme=radical"/>
+    <img  align = "left" width = "44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnogouvea&layout=compact" />
   </a>
 </div>
   
